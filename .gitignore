@@ -1,0 +1,12 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user/
+
+# Local databases
+reviews.sqlite
+
+# Node artifacts
+package-lock.json
+node_modules/
